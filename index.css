@@ -1,0 +1,27 @@
+.h1 {
+  background: red;
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #loginContainer {
+    display: none;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #loginContainer.show {
+    display: block;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
